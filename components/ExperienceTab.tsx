@@ -201,7 +201,7 @@ export default function ExperienceTab() {
                                 {content.title}
                               </Text>
                             </Box>
-                            <Box>
+                            {/* <Box>
                               <Stack direction="row" spacing={"-1em"}>
                                 <Box display={content.github ? "flex" : "none"}>
                                   <IconButton icon={<BsGithub />} display={"inline-flex"} colorScheme={"black"} size="lg" color={"black"} _hover={{ color: "#718096" }} aria-label={""} />
@@ -210,7 +210,7 @@ export default function ExperienceTab() {
                                   <IconButton icon={<ExternalLinkIcon />} display={"inline-flex"} colorScheme={"black"} size="lg" color={"black"} _hover={{ color: "#718096" }} aria-label={""} />
                                 </Box>
                               </Stack>
-                            </Box>
+                            </Box> */}
                           </Flex>
                           <Text fontSize={"xl"} textAlign={"justify"}>
                             {content.description}
