@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.4",
+    "@chakra-ui/react": "^2.2.1",
+    "@emotion/react": "11",
+    "@emotion/styled": "11",
+    "@fontsource/ntr": "^4.5.8",
+    "@splinetool/loader": "^0.9.75",
+    "@splinetool/react-spline": "^2.2.1",
+    "@splinetool/runtime": "^0.9.75",
+    "formik": "^2.2.9",
+    "framer-motion": "^6.4.3",
+    "gsap": "^3.10.4",
+    "i": "^0.3.7",
     "next": "12.2.2",
+    "next-google-fonts": "^2.2.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-spline": "^1.2.1",
+    "three": "^0.142.0"
   },
   "devDependencies": {
     "@types/node": "18.0.3",

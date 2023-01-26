@@ -1,0 +1,11 @@
+/* * {
+  cursor: none;
+}
+
+button:hover {
+  cursor: none;
+} */
+
+html {
+  scroll-behavior: smooth;
+}
